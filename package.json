@@ -1,0 +1,23 @@
+{
+  "name": "ma3-translate-osc",
+  "version": "1.0.0",
+  "description": "Translate MA3 touchosc file messages to MA3 plugin",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kruemel01/ma3-translate-osc.git"
+  },
+  "author": "Fabian Kästner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kruemel01/ma3-translate-osc/issues"
+  },
+  "homepage": "https://github.com/kruemel01/ma3-translate-osc#readme",
+  "dependencies": {
+    "osc": "^2.3.1",
+    "serialport": "^8.0.5"
+  }
+}

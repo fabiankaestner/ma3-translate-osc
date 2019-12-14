@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<GMA3 DataVersion="1.0.0.3">
+    <Plugin Name="MA3TranslateOSC" Guid="00 FF F5 8E 33 4C 00 00 80 4C 98 BC 2A C4 1B 54" Author="Fabian Kästner" Version="1.0.0.0" Path="/MA3TranslateOSC">
+        <ComponentLua Name="Main" Guid="00 FF F5 8E 79 60 00 00 9E 4C 98 BC 5E E2 1B 54" FileName="MA3TranslateOSC.lua" Installed="Yes" />
+    </Plugin>
+</GMA3>
